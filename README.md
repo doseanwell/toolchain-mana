@@ -4,3 +4,6 @@
 配置：toolchain-mana.sh config type,example:toolchain-mana.sh config arm-linux-gnueabihf-;
 安装：toolchain-mana.sh install type path priority,example:toolchain-mana.sh install arm-linux-gnueabihf- /usr/local/arm/gcc-4.9.4-arm-linux-gnueabihf/bin 60;
 删除：toolchain-mana.sh remove type path,example:toolchain-mana.sh remove arm-linux-gnueabihf- /usr/local/arm/gcc-4.9.4-arm-linux-gnueabihf/bin.
+
+
+参考博客：https://blog.csdn.net/wang_shuai_ww/article/details/82217280
